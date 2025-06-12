@@ -1,3 +1,10 @@
+# pi
+
+This is a forked repository used for my own learning and practice.
+
+---
+
+
 # Calculating PI
 
 ## Exercise 1
